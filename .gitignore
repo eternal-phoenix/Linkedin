@@ -1,0 +1,9 @@
+# Ignore compiled output and temporary files
+*.pyc
+__pycache__/
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+*.suo
+*.user
